@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Feature request or idea
+    url: https://github.com/Jason-Vaughan/notse-releases/discussions
+    about: Propose a feature or share an idea in Discussions instead of an issue.
+  - name: Question or workflow help
+    url: https://github.com/Jason-Vaughan/notse-releases/discussions
+    about: Ask in Discussions — better for back-and-forth than an issue.
+  - name: Support documentation
+    url: https://github.com/Jason-Vaughan/notse-releases/blob/main/SUPPORT.md
+    about: Read SUPPORT.md for an overview of how to get help.
+  - name: Licensing or purchase
+    url: https://jasonvaughan.com
+    about: For license key, billing, or activation issues.

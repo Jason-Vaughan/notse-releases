@@ -12,10 +12,13 @@ Notse hooks into a running PowerPoint presentation, pulls the speaker's notes in
 
 The application requires a valid license key to use. License keys are sold separately.
 
+## Support & Feedback
+
+- **Found a bug?** [File an issue](https://github.com/Jason-Vaughan/notse-releases/issues/new?template=bug_report.yml).
+- **Got an idea or feature request?** [Start a discussion](https://github.com/Jason-Vaughan/notse-releases/discussions).
+- **Need help?** See [SUPPORT.md](SUPPORT.md) for the full overview.
+- **Licensing or purchase questions?** Visit [jasonvaughan.com](https://jasonvaughan.com).
+
 ## Source code
 
-The source code is hosted privately. This repo only contains release artifacts.
-
-## Issues / feature requests
-
-Please file at <https://github.com/Jason-Vaughan/Notse/issues>.
+Notse's source is hosted privately. This repo holds release artifacts and is the public face for support and feedback.

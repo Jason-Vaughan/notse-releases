@@ -1,0 +1,106 @@
+name: Bug Report
+description: Report something that's broken in Notse or the helper.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. The more detail you give, the faster we can fix it.
+
+        **Tip**: most issues are already fixed in the [latest release](https://github.com/Jason-Vaughan/notse-releases/releases). Please update first if you can.
+
+  - type: input
+    id: notse-version
+    attributes:
+      label: Notse app version
+      description: Shown in *About Notse* (Mac menu) or the window title bar.
+      placeholder: "e.g. 0.5.12"
+    validations:
+      required: true
+
+  - type: input
+    id: helper-version
+    attributes:
+      label: Helper version
+      description: Shown in the helper's tray menu (right-click the tray icon).
+      placeholder: "e.g. 0.5.11"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: mac-os
+    attributes:
+      label: Mac OS version
+      description: The Mac running Notse.app.
+      options:
+        - "macOS 15 (Sequoia)"
+        - "macOS 14 (Sonoma)"
+        - "macOS 13 (Ventura)"
+        - "macOS 12 (Monterey)"
+        - "Older / not sure"
+        - "N/A — not using a Mac"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: windows-os
+    attributes:
+      label: Windows version (helper machine)
+      description: The Windows machine running NotseHelper.exe with PowerPoint.
+      options:
+        - "Windows 11"
+        - "Windows 10"
+        - "Older / not sure"
+        - "N/A — not using Windows"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug. What did you see?
+      placeholder: "When I clicked X, the prompter window..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: "I expected the prompter to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Even an approximate sequence helps. If you can't reproduce it, just say so.
+      placeholder: |
+        1. Open PowerPoint with the slideshow
+        2. Start Notse on the Mac
+        3. ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      description: |
+        - Mac log: `~/Library/Logs/Notse/notse.log`
+        - Helper log: tray menu → *Open log folder*
+        - Drag screenshots / log files directly into this field.
+      placeholder: "Paste relevant log lines or attach files"
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Network setup (LAN, VPN, NDI), unusual hardware, anything that might be relevant.
+    validations:
+      required: false
