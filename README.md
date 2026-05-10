@@ -6,6 +6,12 @@ Public download location for **Notse** — a networked live teleprompter for bro
 
 Notse hooks into a running PowerPoint presentation, pulls the speaker's notes in real time, and displays them in a formatted teleprompter window with optional NDI output. It runs across two machines (graphics + operator) connected over WebSocket.
 
+## Try the demo (no setup, no license)
+
+Download the latest Mac build from the [Releases page](https://github.com/Jason-Vaughan/notse-releases/releases) and open it — Notse launches with **Demo Mode**, a self-contained tour of the prompter running against canned content. No PowerPoint, no Windows helper, no network, no license required.
+
+When you're ready to use Notse with your own presentations, the same app connects to a real helper from the settings panel.
+
 ## Get Notse
 
 Notse is available under a commercial license — **$50/year per machine**. Includes the macOS app, Windows helper, updates during your subscription, and email support.
