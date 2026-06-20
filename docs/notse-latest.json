@@ -1,0 +1,12 @@
+{
+  "version": "0.5.19",
+  "releaseUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/tag/v0.5.19",
+  "notes": "Manual resync — a Resync button and F5 force a live notes re-read from PowerPoint, so mid-show note edits show within a second. Fixed a dead \"Update helper\" button for self-updating helpers, removed a stray Demo-Mode update banner, and the in-app Shortcuts list now shows every binding. Mac: signed + notarized DMG. Windows helper: Authenticode-signed (Visual Works, LLC).",
+  "helpers": {
+    "windows-powerpoint": {
+      "version": "0.5.19",
+      "installerUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/download/v0.5.19/NotseHelper-Setup-0.5.19.exe",
+      "sha256": "737b9dedf14d739330acf97cb084a2c78ea235192de44e87f6c6defeaeb3af01"
+    }
+  }
+}
