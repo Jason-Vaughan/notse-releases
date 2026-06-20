@@ -152,14 +152,11 @@ and auto-start. This is also the way to update a helper that's too out of date t
 take an over-the-network update.
 
 **Send us a diagnostic report**
-In Notse, open **Settings → Diagnostics → Report…**. This opens a pre-filled
-**GitHub issue** in your browser with your app and helper versions, connection
-state, and a recent event log already filled in — just describe what happened and
-submit. You review and edit everything (and can remove anything you'd rather not
-share) before it posts, and the issue is public on the
-[notse-releases tracker](https://github.com/Jason-Vaughan/notse-releases/issues).
-No GitHub account? Use **Copy Diagnostics** instead and email the details to
-support@jasonvaughan.com.
+In Notse, open **Settings → Diagnostics → Report…**. This **copies a problem
+report to your clipboard** — your app and helper versions, connection state, and
+a recent event log, plus a spot to describe what happened — ready to **paste into
+an email to support@jasonvaughan.com**. Review and remove anything you'd rather
+not share before sending.
 
 ---
 
