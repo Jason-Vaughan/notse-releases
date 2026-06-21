@@ -152,11 +152,12 @@ and auto-start. This is also the way to update a helper that's too out of date t
 take an over-the-network update.
 
 **Send us a diagnostic report**
-In Notse, open **Settings → Diagnostics → Report…**. This **copies a problem
-report to your clipboard** — your app and helper versions, connection state, and
-a recent event log, plus a spot to describe what happened — ready to **paste into
-an email to support@jasonvaughan.com**. Review and remove anything you'd rather
-not share before sending.
+In Notse, open **Settings → Diagnostics → Report…**. A short form opens — add an
+optional email (so we can reply) and describe what happened — and **Send report**
+delivers it straight to support, with your app/helper versions, connection state,
+and a recent event log included automatically. No email app or browser needed.
+(If it ever can't reach us, it'll tell you, and **Copy Diagnostics** is always
+there as a fallback.)
 
 ---
 
