@@ -1,0 +1,12 @@
+{
+  "version": "0.5.21-beta.1",
+  "releaseUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/tag/v0.5.21-beta.1",
+  "notes": "Beta channel: #200 helper notes-cache recovery fix (notes repopulate after a COM-worker abandon mid-show) + Report-a-Problem modal keyboard accessibility. Mac: notarized DMG. Windows helper: Authenticode-signed (Visual Works, LLC).",
+  "helpers": {
+    "windows-powerpoint": {
+      "version": "0.5.21-beta.1",
+      "installerUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/download/v0.5.21-beta.1/NotseHelper-Setup-0.5.21-beta.1.exe",
+      "sha256": "b3a351b3d64ed26f615dfadbe4c90b4642689bca2d80462e388c3b7c8c6a4cbd"
+    }
+  }
+}
