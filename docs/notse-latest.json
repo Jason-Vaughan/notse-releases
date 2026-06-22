@@ -1,12 +1,12 @@
 {
   "version": "0.5.20",
   "releaseUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/tag/v0.5.20",
-  "notes": "Mac-orchestrated LAN updates: drift re-sync, in-app Report a Problem, stable/beta channels. Mac: signed + notarized DMG. Windows helper: Authenticode-signed (Visual Works, LLC).",
+  "notes": "Mac app 0.5.20. NOTE: Windows helper held at 0.5.19 pending a 0.5.21 fix (a 0.5.20 helper build read empty PowerPoint notes). Mac: signed + notarized DMG. Windows helper: Authenticode-signed (Visual Works, LLC).",
   "helpers": {
     "windows-powerpoint": {
-      "version": "0.5.20",
-      "installerUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/download/v0.5.20/NotseHelper-Setup-0.5.20.exe",
-      "sha256": "dd4779da23159feb811de4f4b4c4adbb09cbcbe3b21bcb7056bf0abadc366f42"
+      "version": "0.5.19",
+      "installerUrl": "https://github.com/Jason-Vaughan/notse-releases/releases/download/v0.5.19/NotseHelper-Setup-0.5.19.exe",
+      "sha256": "737b9dedf14d739330acf97cb084a2c78ea235192de44e87f6c6defeaeb3af01"
     }
   }
 }
