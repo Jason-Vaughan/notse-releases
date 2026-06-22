@@ -6,7 +6,7 @@ Need help with Notse? Here's where to go.
 
 Always start by making sure you're on the [latest release](https://github.com/Jason-Vaughan/notse-releases/releases). Many issues are already fixed in newer builds.
 
-The Mac app also checks for updates automatically — open **Notse → Settings → Check for Updates**.
+Check for updates from your Mac: **Notse → Settings → License → Check for Updates**. Updating the Mac also brings your Windows helper to the matching version over your network — both halves stay in sync. Nothing updates silently in the background; you're always in control. See [How updates work](GETTING-STARTED.md#how-updates-work) for the full picture.
 
 ## Report a bug
 

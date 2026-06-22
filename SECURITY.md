@@ -20,7 +20,7 @@ Vulnerabilities in:
 - The Windows / macOS helper (`NotseHelper.exe` / `notse-helper`)
 - The WebSocket protocol between Mac and helper
 - License validation (client-side enforcement)
-- Bundled auto-update mechanism
+- The update mechanism (operator-triggered Mac update + the signed helper installer the Mac delivers over the LAN)
 
 ## What's not in scope
 

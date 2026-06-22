@@ -10,7 +10,7 @@ Notse hooks into a running PowerPoint presentation, pulls the speaker's notes in
 
 Download the latest Mac build from the [Releases page](https://github.com/Jason-Vaughan/notse-releases/releases) and open it — Notse launches with **Demo Mode**, a self-contained tour of the prompter running against canned content. No PowerPoint, no Windows helper, no network, no license required.
 
-When you're ready to use Notse with your own presentations, the same app connects to a real helper from the settings panel.
+When you're ready to use Notse with your own presentations, the same app connects to a real helper from the settings panel. **New to Notse?** The [Getting Started guide](GETTING-STARTED.md) walks you through installing both halves and connecting them over your network.
 
 ## Get Notse
 
@@ -18,7 +18,7 @@ Notse is available under a commercial license — **$50/year per machine**. Incl
 
 **[→ Buy a license at jasonvaughan.com/notse](https://jasonvaughan.com/notse/)**
 
-Once you have a license key, download the latest Mac build from the [Releases page](https://github.com/Jason-Vaughan/notse-releases/releases).
+Once you have a license key, download the latest Mac build from the [Releases page](https://github.com/Jason-Vaughan/notse-releases/releases), then follow the [Getting Started guide](GETTING-STARTED.md) to install the Windows helper and connect.
 
 ## Support & Feedback
 
